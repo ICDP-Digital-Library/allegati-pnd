@@ -6,7 +6,7 @@ In questo repository verranno progressivamente resi disponibili documenti tecnic
 
 **Linee guida per la digitalizzazione del patrimonio culturale**
 
-Sono in fase di aggiornamento, le pubblicheremo in questa repository non appena verrà confermata una versione stabile.
+le appendici di questo allegato sono in fase di aggiornamento: verrà pubblicata a breve una nuova versione.
 
 <hr/>
 
