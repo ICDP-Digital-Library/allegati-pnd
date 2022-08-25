@@ -12,15 +12,9 @@ Sono in fase di aggiornamento, le pubblicheremo in questa repository non appena 
 
 **Linee guida per la redazione del Piano di gestione dei dati Piano di gestione dei dati (Data Management Plan)**:
 
-<<<<<<< HEAD
-=======
-<hr/>
-
-Per l'allegato **Piano di gestione dei dati (Data Management Plan)**:
-
->>>>>>> a3462197350f7f3df548e97841934d30794540a4
   - una [griglia del Piano](https://github.com/icdp-digital-library/allegati-pnd/blob/main/piano_gestione_dati/Scheda%20Progetto_griglia_da_compilare.pdf) di gestione dei dati in PDF editabile di supporto alla compilazione del proprio progetto di digitalizzazione;
   - un [esempio di DMP](https://github.com/icdp-digital-library/allegati-pnd/blob/main/piano_gestione_dati/Scheda%20Progetto_esempio_Fondazione_Zeri.pdf) compilato per descrivere il Piano di gestione dei dati del progetto [Zeri e LODe30](https://fondazionezeri.unibo.it/it/fototeca/attivita/zeri-e-lode)
 
+<hr/>
 
 Visita il sito di [ICDP - Digital Library](https://digitallibrary.cultura.gov.it/)
