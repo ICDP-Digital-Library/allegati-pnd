@@ -8,6 +8,9 @@ In questo repository verranno progressivamente resi disponibili documenti tecnic
 
 le appendici di questo allegato sono in fase di aggiornamento: verrà pubblicata a breve una nuova versione.
 
+  - Puoi leggere il Manuale Mets a questo link: https://icdp.gitbook.io/manuale-mets-ecomic/
+  - Qui un [esempio di METS]() realizzato per la digitalizzazione dei microfilm
+
 <hr/>
 
 **Linee guida per la redazione del Piano di gestione dei dati Piano di gestione dei dati (Data Management Plan)**:

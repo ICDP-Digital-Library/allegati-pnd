@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets OBJID="ID-000001" xmlns:METS="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dct="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:rights="http://cosimo.stanford.edu/sdr/metsrights/"
+xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/mods/v3/mods-3-7.xsd http://cosimo.stanford.edu/sdr/metsrights/ https://www.loc.gov/standards/rights/METSRights.xsd">
+	<METS:metsHdr CREATEDATE="2022-04-27T16:16:39Z" ID="ID-000001" LASTMODDATE="2022-05-03T16:16:39Z" RECORDSTATUS="COMPLETE">
+		<METS:agent ROLE="CREATOR" TYPE="ORGANIZATION">
+			<METS:name>Biblioteca nazionale centrale - Roma</METS:name>
+		</METS:agent>
+		<METS:agent ROLE="IPOWNER" TYPE="ORGANIZATION">
+			<METS:name>Biblioteca nazionale centrale - Roma</METS:name>
+		</METS:agent>
+	</METS:metsHdr>
+	<METS:dmdSec ID="DMD1" STATUS="referenced">
+		<METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml" LABEL="MODS Metadata">
+			<METS:xmlData>
+				<mods:mods>
+					<mods:accessCondition type="use and reproduction" xlink:href="https://w3id.org/italia/controlled-vocabulary/licences/BC_Standard_1.0">Beni Culturali Standard (BCS)</mods:accessCondition>
+					<mods:accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-OKLR/1.0/">NO COPYRIGHT - OTHER KNOWN LEGAL RESTRICTIONS</mods:accessCondition>
+					<mods:identifier type="logicalId">CNMD\0000230076</mods:identifier>
+					<mods:identifier type="managementId">CNMS\0000168104</mods:identifier>
+					<mods:identifier type="conservativeId">114</mods:identifier>
+					<mods:identifier type="dossierId">completa</mods:identifier>
+					<mods:recordInfo>
+						<mods:recordContentSource>MOL</mods:recordContentSource>
+					</mods:recordInfo>
+					<mods:relatedItem otherType="digitalCollection">
+						<mods:titleInfo>
+							<mods:title>Progetto microfilm</mods:title>
+						</mods:titleInfo>
+					</mods:relatedItem>
+				</mods:mods>
+			</METS:xmlData>
+		</METS:mdWrap>
+	</METS:dmdSec>
+	<METS:amdSec ID="AMD1">
+		<METS:rightsMD ID="BCS">
+			<METS:mdWrap MDTYPE="METSRIGHTS" MIMETYPE="text/xml" LABEL="Rights Metadata">
+				<METS:xmlData>
+					<rights:RightsDeclarationMD>
+						<rights:RightsHolder RIGHTSHOLDERID="MiC">
+							<rights:RightsHolderName>Ministero della Cultura</rights:RightsHolderName>
+						</rights:RightsHolder>
+						<rights:RightsHolder RIGHTSHOLDERID="IT-RM0267">
+							<rights:RightsHolderName>Biblioteca nazionale centrale - Roma</rights:RightsHolderName>
+							<rights:RightsHolderContact>
+								<rights:RightsHolderContactEmail>bnc-rm@cultura.gov.it</rights:RightsHolderContactEmail>
+							</rights:RightsHolderContact>
+						</rights:RightsHolder>
+					</rights:RightsDeclarationMD>
+				</METS:xmlData>
+			</METS:mdWrap>
+		</METS:rightsMD>
+		<METS:rightsMD ID="DCTrights">
+			<METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml" LABEL="DCT Rights Metadata">
+				<METS:xmlData>
+					<dct:license>https://w3id.org/italia/controlled-vocabulary/licences/BC_Standard_1.0</dct:license>
+					<dct:rights>http://rightsstatements.org/vocab/NoC-OKLR/1.0/</dct:rights>
+				</METS:xmlData>
+			</METS:mdWrap>
+		</METS:rightsMD>
+		<METS:sourceMD ID="sourceMD1">
+			<METS:mdWrap MDTYPE="MODS" MIMETYPE="text/xml" LABEL="MODS Metadata">
+				<METS:xmlData>
+					<mods:mods>
+						<mods:identifier type="localId">95311</mods:identifier>
+						<mods:location>
+							<mods:physicalLocation>Biblioteca nazionale centrale - Roma</mods:physicalLocation>
+							<mods:holdingSimple>
+								<mods:copyInformation>
+									<mods:shelfLocator>Neg 26910</mods:shelfLocator>
+								</mods:copyInformation>
+							</mods:holdingSimple>
+						</mods:location>
+						<mods:originInfo eventType="production">
+							<mods:dateCreated>1991</mods:dateCreated>
+							<mods:place>
+								<mods:placeTerm type="text">Roma</mods:placeTerm>
+							</mods:place>
+							<mods:publisher>Need Pomezia</mods:publisher>
+						</mods:originInfo>
+						<mods:physicalDescription>
+							<mods:form authority="marcform">microfilm</mods:form>
+							<mods:extent>1 bobina di microfilm (170 fotogrammi) : negativo, b/n, non perforato ; 35 mm</mods:extent>
+						</mods:physicalDescription>
+						<mods:recordInfo>
+							<mods:recordContentSource>Centro Nazionale per lo Studio del Manoscritto</mods:recordContentSource>
+						</mods:recordInfo>
+					</mods:mods>
+				</METS:xmlData>
+			</METS:mdWrap>
+		</METS:sourceMD>
+	</METS:amdSec>
+	<METS:fileSec>
+		<METS:fileGrp USE="INTERNAL">
+			<METS:fileGrp USE="IMAGE">
+				<METS:fileGrp USE="ARCHIVE">
+					<METS:file ID="ARCHIVE-IMG1" MIMETYPE="image/tiff" CHECKSUM="n518e85786456887a57e1bdb31fe5890" CHECKSUMTYPE="MD5" SIZE="152724" ADMID="BCS DCTrights">
+						<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="./IT-RM0256+CNMD0000230076_CNSM95311/FOTOG/TIFF/IT-RM0256+CNMD0000230076_CNSM95311+0001+F.tif"/>
+					</METS:file>
+					<METS:file ID="ARCHIVE-IMG2" MIMETYPE="image/tiff" CHECKSUM="8bca0793faeec5931a09df313e401046" CHECKSUMTYPE="MD5" SIZE="166913" ADMID="BCS DCTrights">
+						<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="./IT-RM0256+CNMD0000230076_CNSM95311/FOTOG/TIFF/IT-RM0256+CNMD0000230076_CNSM95311+0002+F.tif"/>
+					</METS:file>
+				</METS:fileGrp>
+				<METS:fileGrp USE="HIGH">
+					<METS:file ID="HIGH-IMG1" MIMETYPE="image/jpeg" CHECKSUM="a518e85786456887a57e1bdb31fe5890" CHECKSUMTYPE="MD5" SIZE="152724" ADMID="BCS DCTrights">
+						<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="./IT-RM0256+CNMD0000230076_CNSM95311/FOTOG/JPEG300/IT-RM0256+CNMD0000230076_CNSM95311+0001+F.jpg"/>
+					</METS:file>
+					<METS:file ID="HIGH-IMG2" MIMETYPE="image/jpeg" CHECKSUM="7bca0793faeec5931a09df313e401046" CHECKSUMTYPE="MD5" SIZE="166913" ADMID="BCS DCTrights">
+						<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="./IT-RM0256+CNMD0000230076_CNSM95311/FOTOG/JPEG300/IT-RM0256+CNMD0000230076_CNSM95311+0002+F.jpg"/>
+					</METS:file>
+					<METS:file ID="HIGH-IMG3" MIMETYPE="image/jpeg" CHECKSUM="a518e85786456887a57e1bdb31fe5890" CHECKSUMTYPE="MD5" SIZE="152724" ADMID="BCS DCTrights">
+						<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="./IT-RM0256+CNMD0000230076_CNSM95311/SING/JPEG300/IT-RM0256+CNMD0000230076_CNSM95311+0001+C.jpg"/>
+					</METS:file>
+					<METS:file ID="HIGH-IMG4" MIMETYPE="image/jpeg" CHECKSUM="7bca0793faeec5931a09df313e401046" CHECKSUMTYPE="MD5" SIZE="166913" ADMID="BCS DCTrights">
+						<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="./IT-RM0256+CNMD0000230076_CNSM95311/SING/JPEG300/IT-RM0256+CNMD0000230076_CNSM95311+0002+C.jpg"/>
+					</METS:file>
+					<METS:file ID="HIGH-IMG5" MIMETYPE="image/jpeg" CHECKSUM="89707c1f34cd739b2bf696d9db1d5cfa" CHECKSUMTYPE="MD5" SIZE="172575" ADMID="BCS DCTrights">
+						<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="./IT-RM0256+CNMD0000230076_CNSM95311/SING/JPEG300/IT-RM0256+CNMD0000230076_CNSM95311+0003+C.jpg"/>
+					</METS:file>
+					<METS:file ID="HIGH-IMG6" MIMETYPE="image/jpeg" CHECKSUM="89707c1f34cd739b2bf696d9db1d5cfa" CHECKSUMTYPE="MD5" SIZE="172575" ADMID="BCS DCTrights">
+						<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="./IT-RM0256+CNMD0000230076_CNSM95311/SING/JPEG300/IT-RM0256+CNMD0000230076_CNSM95311+0004+C.jpg"/>
+					</METS:file>
+				</METS:fileGrp>
+			</METS:fileGrp>
+		</METS:fileGrp>
+	</METS:fileSec>
+	<METS:structMap TYPE="PHYSICAL">
+		<METS:div LABEL="book" TYPE="FOLDER">
+			<METS:div LABEL="Carta: 1v-2r" ORDER="1" TYPE="FILE">
+				<METS:fptr FILEID="HIGH-IMG1"/>
+			</METS:div>
+			<METS:div LABEL="Carta: 2v-3r" ORDER="2" TYPE="FILE">
+				<METS:fptr FILEID="HIGH-IMG2"/>
+			</METS:div>
+		</METS:div>
+	</METS:structMap>
+	<METS:structMap TYPE="PHYSICAL">
+		<METS:div LABEL="single" TYPE="FOLDER">
+			<METS:div LABEL="Carta: 1v" ORDER="1" TYPE="FILE">
+				<METS:fptr FILEID="HIGH-IMG3"/>
+			</METS:div>
+			<METS:div LABEL="Carta: 2r" ORDER="2" TYPE="FILE">
+				<METS:fptr FILEID="HIGH-IMG4"/>
+			</METS:div>
+			<METS:div LABEL="Carta: 2v" ORDER="3" TYPE="FILE">
+				<METS:fptr FILEID="HIGH-IMG5"/>
+			</METS:div>
+			<METS:div LABEL="Carta: 3r" ORDER="4" TYPE="FILE">
+				<METS:fptr FILEID="HIGH-IMG6"/>
+			</METS:div>
+		</METS:div>
+	</METS:structMap>
+</METS:mets>
