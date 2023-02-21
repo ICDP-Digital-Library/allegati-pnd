@@ -9,7 +9,7 @@ In questo repository verranno progressivamente resi disponibili documenti tecnic
 le appendici di questo allegato sono in fase di aggiornamento: verrà pubblicata a breve una nuova versione.
 
   - Puoi leggere il Manuale Mets a questo link: https://icdp.gitbook.io/manuale-mets-ecomic/
-  - Qui un [esempio di METS]() realizzato per la digitalizzazione dei microfilm
+  - Qui un [esempio di METS](https://github.com/icdp-digital-library/allegati-pnd/blob/main/digitalizzazione/METS_ECOMiC_microfilm_sample.xml) realizzato per la digitalizzazione dei microfilm
 
 <hr/>
 
